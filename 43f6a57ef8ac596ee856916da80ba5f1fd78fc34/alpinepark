@@ -28,7 +28,7 @@
 <div class="title" id="myTitle">
     <div class="title-img">
     <a href="/"><img src="[IMG ICON HERE]" /></a></div>
-        <div class="title-text"> <a href="/">lqcc logs</a></div>
+        <div class="title-text"> <a href="https://415x2.github.io/lqcclogs/43f6a57ef8ac596ee856916da80ba5f1fd78fc34">lqcc logs</a></div>
     
     
     <div class="linkwrap">
@@ -48,8 +48,8 @@
 <div class="desc-body">
 
     <div class="text">
-        <div class="deschead">hi there!</div>
-   <div style="line-height:20px;"><p>please don't say damn when you see my messy code and remnant shit from a while ago pls sorry 
+        <div class="deschead">alpine park</div>
+   <div style="line-height:20px;"><p>whoever formatted this, your power and strength.  
  
    </div>
     </div>
@@ -60,10 +60,10 @@
 
 <!-- start tabs -->
 <div class="tabbox">
-<button class="tablink" onclick="openPage('motion', this, 'transparent')"id="defaultOpen">motion</button>
-<button class="tablink" onclick="openPage('branding', this, 'transparent')" >branding</button>
-<button class="tablink" onclick="openPage('uxui', this, 'transparent')">ux/ui</button>
-<button class="tablink" onclick="openPage('illustration', this, 'transparent')">illustration</button>
+<button class="tablink" onclick="openPage('motion', this, 'transparent')"id="defaultOpen">main</button>
+<button class="tablink" onclick="openPage('branding', this, 'transparent')" >2</button>
+<button class="tablink" onclick="openPage('uxui', this, 'transparent')">3</button>
+<button class="tablink" onclick="openPage('illustration', this, 'transparent')">4</button>
 </div>
 <!-- end tabs -->
 
