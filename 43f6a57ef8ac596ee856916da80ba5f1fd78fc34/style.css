@@ -94,7 +94,7 @@ blockquote {
 
 .title {
     position:fixed;
-    color:#fff;
+    color: var(--charcoal);
     left:-10px;
     top:-20px;
     width:100%;
