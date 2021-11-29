@@ -440,7 +440,7 @@ blockquote {
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     .container {
-      background: red;
+      /*background: red;*/
       width:375px;
   }
     .desc-body { width:290px; }
@@ -464,7 +464,7 @@ blockquote {
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
     .container {
-      background: green;
+      /*background: green;*/
       width:600px;
   }
     .desc-body { width:580px; }
@@ -489,7 +489,7 @@ blockquote {
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
     .container {
-      background: blue;
+      /*background: blue;*/
       width: 750px;}
     .tabbox { width: 730px; }
     .desc-body { width:730px; }
@@ -510,7 +510,7 @@ blockquote {
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
     .container {
-      background: orange;
+      /*background: orange;*/
       width: 900px;}
     .tabbox { width:875px; }
     .desc-body { width:875px; }
@@ -534,7 +534,7 @@ blockquote {
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
     .container {
-      background: pink;
+      /*background: pink;*/
       width:1200px; }
     .tabbox { width:1160px; }
     .desc-body { width:1160px; }
