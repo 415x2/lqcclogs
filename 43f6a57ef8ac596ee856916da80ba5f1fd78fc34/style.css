@@ -238,7 +238,7 @@ blockquote {
 .text {
     display:inline-block;
     font-family: 'Montserrat', sans-serif;
-    font-size:14px;
+    font-size:14px; 
     color:white);
     /*background-color:var(--light-blue);*/
     padding-left:20px;
@@ -247,10 +247,6 @@ blockquote {
     text-align:left;
 }
 
-.mainvid {
-    display:inline-block;
-    margin-top:50px;
-}
 
 
 
