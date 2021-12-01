@@ -487,9 +487,9 @@ blockquote {
     .container {
       /*background: blue;*/
       width: 750px;}
-    .tabbox { width: 730px; }
+    .tabbox { width: 730px; } 
     .desc-body { width:730px; }
-    .text { width:400px; margin-left:140px;}
+    .text { width:500px; margin-left:100px;}
     .item { width: 95%; }
     iframe {
         width:704px;
@@ -510,7 +510,7 @@ blockquote {
       width: 900px;}
     .tabbox { width:875px; }
     .desc-body { width:875px; }
-    .text { width:400px; margin-left:10px;}
+    .text { width:600px; margin-left:100px;}
     .item { width: 45.8%; }
     iframe {
         width:400px;
@@ -534,7 +534,7 @@ blockquote {
       width:1200px; }
     .tabbox { width:1160px; }
     .desc-body { width:1160px; }
-    .text { width:400px; margin-left:50px; margin-right:50px;}
+    .text { width:700px; margin-left:100px; margin-right:50px;}
     .item { width: 46.3%; }
     iframe {
         width:544px;
