@@ -239,7 +239,7 @@ blockquote {
     display:inline-block;
     font-family: 'Montserrat', sans-serif;
     font-size:14px; 
-    color:white);
+    color:white;
     /*background-color:var(--light-blue);*/
     padding-left:20px;
     padding-right:20px;
